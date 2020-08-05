@@ -20,13 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="ftd2xx.h" />
-    <ClInclude Include="types.h" />
   </ItemGroup>
   <ItemGroup>
     <Library Include="ftd2xx.lib" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="test.c" />
+    <ClCompile Include="main.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
